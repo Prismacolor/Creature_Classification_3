@@ -1,0 +1,36 @@
+Number,Legs,Wings,Gender,Length,Height,Weight,Environment,Classification
+1,4,6,Male,413,470,2323.125,cave,Dragon
+2,4,2,Female,860,72,4837.5,air,Flying Serpent
+3,2,2,Female,360,225,2025.0,volcanoes,Wyvern
+4,2,2,Female,512,269,2880.0,volcanoes,Wyvern
+5,4,6,Male,568,437,3195.0,cave,Dragon
+6,4,2,Female,615,385,3459.375,cave,Dragon
+7,0,0,Female,1094,49,6153.75,cave,Wyrm
+8,2,2,Male,412,137,2317.5,volcanoes,Wyvern
+9,4,2,Female,221,134,1243.125,volcanoes,Drake
+10,4,6,Female,746,476,4196.25,cave,Dragon
+11,4,2,Male,784,95,4410.0,air,Flying Serpent
+12,0,0,Female,1291,37,7261.875,cave,Wyrm
+13,4,2,Male,745,92,4190.625,air,Flying Serpent
+14,0,0,Male,1235,49,6946.875,swamp,Wyrm
+15,4,2,Female,244,127,1372.5,mountain,Drake
+16,4,2,Male,545,241,3065.625,volcanoes,Dragon
+17,4,2,Male,193,125,1085.625,woods,Drake
+18,2,4,Male,201,216,1130.625,volcanoes,Wyvern
+19,4,0,Male,704,73,3960.0,air,Serpent
+20,4,0,Male,895,76,5034.375,water,Serpent
+21,4,6,Male,469,534,2638.125,mountain,Dragon
+22,4,0,Female,1079,66,6069.375,air,Serpent
+23,2,2,Male,178,106,1001.25,desert,Drake
+24,2,2,Female,256,152,1440.0,cave,Drake
+25,2,2,Male,216,113,1215.0,cave,Drake
+26,4,0,Male,812,70,4567.5,air,Serpent
+27,2,4,Female,436,183,2452.5,volcanoes,Wyvern
+28,4,0,Female,746,74,4196.25,water,Serpent
+29,2,2,Male,188,121,1057.5,volcanoes,Drake
+30,2,2,Female,374,169,2103.75,volcanoes,Wyvern
+31,4,2,Male,614,88,3453.75,air,Flying Serpent
+32,4,2,Female,529,439,2975.625,cave,Dragon
+33,4,0,Male,975,77,5484.375,air,Serpent
+34,4,2,Female,900,80,5062.5,air,Flying Serpent
+35,4,0,Male,697,79,3920.625,air,Serpent
