@@ -13,4 +13,4 @@ with some of the things I learned. I did somehow manage to build my first dashbo
 Anyway feel free to poke around with the data, and clone it and try out other classification algorithms if you want! This was really just 
 meant to be a fun, lighthearted project dealing with a relatively simple, mid-sized data set. Enjoy!
 
-
+:)
